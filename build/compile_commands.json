@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/matt/GitHubProjects/PublicDemo/build",
+  "command": "/usr/bin/gcc-7 -g -o CMakeFiles/Demo.dir/main.c.o -c /home/matt/GitHubProjects/PublicDemo/main.c",
+  "file": "/home/matt/GitHubProjects/PublicDemo/main.c"
+}
+]
